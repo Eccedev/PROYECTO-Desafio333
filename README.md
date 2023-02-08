@@ -1,8 +1,11 @@
 # Desafío 333dotX Mordidas
 
 ## ¿Qué es un Desafío 333dotX Mordidas?  
-Un Desafío🚀 mordiendo destrezas y desarrollos de proyectos e ideas para lograr La Gran Meta👀 en estado de flow😎y 😃.  
-Se puede aplicar a cualquier cosa que se desee morder jaja.
+Un Desafío🚀 mordiendo destrezas y desarrollos de proyectos e ideas para lograr La Gran Meta👀 en estado de flow😎.  
+  
+Tu familia, amig@s y conocid@s estarán orgullos@s por tus destrezas, experiencia y desarrollos de proyectos logrados. Y ahora lo mejor ¡No te pongas nervios@! Pero el mundo pondrá sus ojos en ti😃 si lo publicas y mencionas.  
+  
+Nota: Se puede desafiar cualquier cosa que desees morder jaja.
 
 ### Algunas normas. Sé flexible y adáptalas a ti si te unes.  
 **La Gran Meta** 👀 es sentirte en flow😎 durante el recorrido de mejora, aprendizaje o desarrollo y ser una mejor versión de ti mismo al lograr tus objetivos, es decir, un **sistema de tiempo provechoso dedicado y acumulativo basado en objetivos alcanzables**. ¡Esta idea es la más importante!  
@@ -11,8 +14,6 @@ Se puede aplicar a cualquier cosa que se desee morder jaja.
   
 ### Es de bien nacidos ser agradecidos.  
 Si te gusta la idea de los Desafíos 333dotX Mordidas menciona https://github.com/Eccedev pues es su [lugar de nacimiento](https://github.com/Eccedev). Cualquiera puede ayudar a mejorar el sistema del Desafío 333dotX Mordidas. Solo necesita desafiarse a sí mismo frente al universo o con amig@s y contarlo. Esto puede ser una cadena increíble de acontecimientos maravillosos a pesar que estamos mordiendo cosas 😬 😃.   
-  
-  
 #### ¿Cómo conseguir mordidas?  
 - Caso 1: En un solo "Desafío 333dot**1**" (333 * 1) en el que se incluya una o varias destreza/s y proyecto/s que guarden relación entre sí pero que su objetivo es conseguir una sola vez dar 333 mordidas.  
 - Caso 2: En un "Desafío 333dot**X**" (333 * x; x = número de retos) en el que dentro del desafío hay varias destreza/s y proyecto/s llamados "Retos" pues, a pesar de estar relacionados entre sí, cada uno debe conseguir 333 mordidas de forma independiente. Según el número de Retos se denominará 333dot2 para 2 retos (acumulará 666 mordidas), 333dot3 para 3 (acumulará 999), etc. [Mira mi Desafío 333dot3 JS-ETH-PROJ](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ) 
@@ -71,7 +72,7 @@ Es que casi todo encajaba y se aligeraba cuando se basaba en 3 y pensando en la 
 
 Es posible que para conseguir tus mordidas vayas mejorando otras habilidades. Un ejemplo puede ser morder un "Desafío 333dot1 HTML" siguiendo un curso en inglés que usa Github para depositar repositorios de tus web...ahí tienes un ejemplo claro , mejorarás en inglés y Github sin apenas darte cuenta. ¡Anótalo si te ha aportado valor!  
   
-### ¿Por qué 33 minutos?¿Por qué 3 fracciones por día?¿por qué y por qué todo esto?
+### ¿Por qué 33 minutos?¿Por qué 3 fracciones por día?¿por qué esto y por qué lo otro?
 Todo tiene un porque en lo que lees en estas líneas pero es que este README se está alargando demasiado😅.  
 
 ### Tributo.  
