@@ -1,4 +1,4 @@
-# Desafio 333dotX Mordidas
+# Desafío 333dotX Mordidas
 
 ## ¿Qué es un Desafío 333dotX Mordidas?  
 Un Desafío🚀 mordiendo destrezas y desarrollos de proyectos e ideas para lograr La Gran Meta👀 en estado de flow😎y 😃.  
