@@ -1,19 +1,20 @@
-# Desafío 333dotX Mordidas
+    
+# [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas)
 
-## ¿Qué es un Desafío 333dotX Mordidas?  
+## ¿Qué es un [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas)?  
 Un Desafío🚀 mordiendo destrezas y desarrollos de proyectos e ideas para lograr La Gran Meta👀 en estado de flow😎.  
   
-Tu familia, amig@s y conocid@s estarán orgullos@s por tus destrezas, experiencia y desarrollos de proyectos logrados. Y ahora lo mejor ¡No te pongas nervios@! Pero el mundo pondrá sus ojos en ti😃 si lo publicas y mencionas.  
+Tu familia, amig@s y conocid@s estarán orgullos@s por tus destrezas, experiencia y desarrollos de proyectos logrados. Y ahora lo mejor ¡No te pongas nervios@! Pero el mundo pondrá sus ojos en ti😃 si lo publicas y mencionas a [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas).  
   
 Nota: Se puede desafiar cualquier cosa que desees morder jaja.
 
 ### Algunas normas. Sé flexible y adáptalas a ti si te unes.  
 **La Gran Meta** 👀 es sentirte en flow😎 durante el recorrido de mejora, aprendizaje o desarrollo y ser una mejor versión de ti mismo al lograr tus objetivos, es decir, un **sistema de tiempo provechoso dedicado y acumulativo basado en objetivos alcanzables**. ¡Esta idea es la más importante!  
 
-**Desafío 333dotX Mordidas** está pensado para conseguir dar al menos 333 **mordidas de fracciones** de cada día aprovechado entre las **destrezas** y **proyectos** seleccionados por uno mismo. Sé realista y pon tus objetivos "alcanzables". No dudes en aplicar flexi-normas como readaptar tu desafío, tu objetivo y hoja de ruta si lo crees necesario. Y si necesitas apoyo no dudes y pídelo.  
+**[Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas)** está pensado para conseguir dar al menos 333 **mordidas de fracciones** de cada día aprovechado entre las **destrezas** y **proyectos** seleccionados por uno mismo. Sé realista y pon tus objetivos "alcanzables". No dudes en aplicar flexi-normas como readaptar tu desafío, tu objetivo y hoja de ruta si lo crees necesario. Y si necesitas apoyo no dudes y pídelo.  
   
 ### Es de bien nacidos ser agradecidos.  
-Si te gusta la idea de los Desafíos 333dotX Mordidas menciona https://github.com/Eccedev pues es su [lugar de nacimiento](https://github.com/Eccedev). Cualquiera puede ayudar a mejorar el sistema del Desafío 333dotX Mordidas. Solo necesita desafiarse a sí mismo frente al universo o con amig@s y contarlo. Esto puede ser una cadena increíble de acontecimientos maravillosos a pesar que estamos mordiendo cosas 😬 😃.   
+Si te gusta la idea del [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas) menciónalo pues es su [lugar de nacimiento](https://github.com/Eccedev/Desafio-333dotX-Mordidas). Cualquiera puede ayudar a mejorar el proyecto [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas). Solo necesita desafiarse a sí mismo frente al universo o con amig@s y contarlo. Esto puede ser una cadena increíble de acontecimientos maravillosos a pesar que estamos mordiendo cosas 😬 😃.   
 #### ¿Cómo conseguir mordidas?  
 - Caso 1: En un solo "Desafío 333dot**1**" (333 * 1) en el que se incluya una o varias destreza/s y proyecto/s que guarden relación entre sí pero que su objetivo es conseguir una sola vez dar 333 mordidas.  
 - Caso 2: En un "Desafío 333dot**X**" (333 * x; x = número de retos) en el que dentro del desafío hay varias destreza/s y proyecto/s llamados "Retos" pues, a pesar de estar relacionados entre sí, cada uno debe conseguir 333 mordidas de forma independiente. Según el número de Retos se denominará 333dot2 para 2 retos (acumulará 666 mordidas), 333dot3 para 3 (acumulará 999), etc. [Mira mi Desafío 333dot3 JS-ETH-PROJ](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ) 
@@ -78,7 +79,8 @@ Todo tiene un porque en lo que lees en estas líneas pero es que este README se 
 ### Tributo.  
 Atrapando como idea el post de [freecodecamp](https://www.freecodecamp.org/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/) y [Alex Kallaway](https://github.com/Kallaway/100-days-of-code) quiero ir un poco más allá y me he propuesto a realizar un seguimiento a mi desarrollo de destrezas y proyectos bajo este sistema que he llamado "Desafío 333dot3 mordidas".  
   
-Con él no solo pretendo mejorar en "x veces codificando" sino que la dedicación tendrá una dirección definida: El Desafío será el medio con el que conseguirlo pero el fin es La Gran Meta👀, es decir, obtener o mejorar una destreza-aprendizaje o desarrollar una idea o proyecto/s. Como anotamos más arriba, conseguir superar un Desafío 333dotX Mordidas sin haber logrado La Gran Meta👀 deseada (aprendizaje, mejora o desarrollo (en flow😎)) nos hará darnos cuenta que dimensionamos algo erróneamente al definir nuestro Desafío pero ¡No hay problema! Se añade una ronda nueva (Ronda2, Ronda3...) y se continúa hasta lograrlo. ¡Tu próximo Desafío será el más fix&fit del universo jaja!  
+Con él no solo pretendo mejorar en "x veces aplicando" sino que la dedicación tendrá una dirección definida: El Desafío será el medio con el que conseguirlo pero el fin es La Gran Meta👀, es decir, obtener o mejorar una destreza-aprendizaje o desarrollar una idea o proyecto/s. Como anotamos más arriba, conseguir superar un [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas) sin haber logrado La Gran Meta👀 deseada (aprendizaje, mejora o desarrollo (en flow😎)) nos hará darnos cuenta que dimensionamos algo erróneamente al definir nuestro Desafío pero ¡No hay problema! Se añade una ronda nueva (Ronda2, Ronda3...) y se continúa hasta lograrlo. ¡Tu próximo Desafío será el más fix&fit del universo jaja!  
   
   
-Es una idea a desarrollar y también un experimento con vistas a pasarlo bien y mantenerme motivado mientras mejoro destrezas y desarrollo proyectos. Creo que puede ser de gran ayuda a tod@s pues te mantendrá prendado a tu Meta mientra realizas un juego que tú mismo has elegido, tu  Desafío 333dotX Mordidas. ¡[Cópiame la idea que la distribuyo opensource 😃](https://github.com/Eccedev)! 
+Es una idea a desarrollar y también un experimento con vistas a pasarlo bien y mantenerme motivado mientras mejoro destrezas y desarrollo proyectos. Creo que puede ser de gran ayuda a tod@s pues te mantendrá prendado a tu Meta mientra realizas un juego que tú mismo has elegido, tu  Desafío 333dotX Mordidas. ¡[Cópiame la idea que la distribuyo opensource 😃](https://github.com/Eccedev/Desafio-333dotX-Mordidas)! 
+ 
