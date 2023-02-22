@@ -15,14 +15,14 @@ Nota: Se puede desafiar cualquier cosa que desees morder jaja.
   
 ¡Ah! Está demostrado que si informas al universo adquieres un compromiso contigo mismo que te facilitará terminar tu Desafío. Ser terrícola inteligente = publicar tu Desafío con **#midesafio333dot** y si quieres comunica su origen https://github.com/Eccedev/Desafio-333dotX-Mordidas .  
 
-No olvides llevar un seguimiento de tus mordidas y tiempo dedicado-acumulado y mostrarlo al mundo. Tod@s querrán saber de tus tus avances. [Mira mi ejemplo](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ/blob/main/Reto%20333dot3%20JS%20y%20su%20entorno.md).  
+No olvides llevar un seguimiento de tus mordidas y tiempo dedicado-acumulado y mostrarlo al mundo. Tod@s querrán saber de tus tus avances. [Mira mi ejemplo](https://github.com/Eccedev/Desafio-333dot2-JS-ETH/blob/main/Reto%20333dot3%20JS%20y%20su%20entorno.md).  
   
 ### Es de bien nacidos ser agradecidos.  
-Si te gusta la idea del [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas) menciónalo y añade **#midesafio333dot** en tus publicaciones. Cualquiera puede ayudar a mejorar el proyecto [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas). Solo necesita desafiarse a sí mismo frente al universo o con amig@s y contarlo. Esto puede ser una cadena increíble de acontecimientos maravillosos a pesar que estamos mordiendo cosas 😬 😃. ¡Anima a tus conocidos! Podrían desafiarse en grupo para lograr conquistar el mundo mejorando o creando muchas destrezas y proyectos.  
+Si te gusta la idea del [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas) menciónalo y añade **#midesafio333dot** en tus publicaciones. Cualquiera puede ayudar a mejorar el proyecto Desafío 333dotX Mordidas. Solo necesita desafiarse a sí mismo frente al universo o con amig@s y contarlo. Esto puede ser una cadena increíble de acontecimientos maravillosos a pesar que estamos mordiendo cosas 😬 😃. ¡Anima a tus conocidos! Podrían desafiarse en grupo para lograr conquistar el mundo mejorando o creando muchas destrezas y proyectos.  
 
 #### ¿Cómo conseguir mordidas?  
 - Caso 1: En un solo "Desafío 333dot**1**" (333 * 1) en el que se incluya una o varias destreza/s y proyecto/s que guarden relación entre sí pero que su objetivo es conseguir una sola vez dar 333 mordidas.  
-- Caso 2: En un "Desafío 333dot**X**" (333 * x; x = número de retos) en el que dentro del desafío hay varias destreza/s y proyecto/s llamados "Retos" pues, a pesar de estar relacionados entre sí, cada uno debe conseguir 333 mordidas de forma independiente. Según el número de Retos se denominará 333dot2 para 2 retos (acumulará 666 mordidas), 333dot3 para 3 (acumulará 999), etc. [Mira mi Desafío 333dot3 JS-ETH-PROJ](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ) 
+- Caso 2: En un "Desafío 333dot**X**" (333 * x; x = número de retos) en el que dentro del desafío hay varias destreza/s y proyecto/s llamados "Retos" pues, a pesar de estar relacionados entre sí, cada uno debe conseguir 333 mordidas de forma independiente. Según el número de Retos se denominará 333dot2 para 2 retos (acumulará 666 mordidas), 333dot3 para 3 (acumulará 999), etc. [Mira mi Desafío 333dot2 JS-ETH-PROJ](https://github.com/Eccedev/Desafio-333dot2-JS-ETH) 
 
 **Ejemplos: En Desarrollo Web tus desafíos podrían ser:**  
 - (Caso 1a) "Desafío 333dot**1** HTML"  = conseguir 333 mordidas sumando mordidas como una sola destreza llamada HTML, por ello es **dot1**.  
@@ -52,12 +52,12 @@ durante la noche 3 h 50' (= 2 mordidas ⛔ojo ).
 Total 2+2 (📢se sobrepasa el límite máximo diario) = 3 mordidas para ese día en esa habilidad.  
 Lo anoto para hacer el seguimiento: **"4/1/2023 - Desafío 333dot1 HTML" = 3 mordidas / 7 h 30'. Acumulado 5 mordidas / 10 h 15'.**  
   
-Mira mi ejemplo real de [Github](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ/blob/main/Reto%20333dot3%20JS%20y%20su%20entorno.md): cada día que muerdo intento anotar fecha, lugar, mordida, sensaciones y link's. Pero como soy flexible iré añadiendo o quitando items según crea necesario...es mi Desafío!
+Mira mi ejemplo real de [Github](https://github.com/Eccedev/Desafio-333dot2-JS-ETH/blob/main/Reto%20333dot3%20JS%20y%20su%20entorno.md): cada día que muerdo intento anotar fecha, lugar, mordida, sensaciones y link's. Pero como soy flexible iré añadiendo o quitando items según crea necesario...es mi Desafío!
   
   
 - Si sólo muerdes una destreza o projecto el Desafío 333**dot1** es el correcto.  
 - Pero el número de destrezas y proyectos máximos relacionados entre sí a desarrollar a la misma vez en un **Desafío 333dot1 Mordidas** (333 * 1 = 333 mordidas) se aconseja que no supere ¿ 1, 2 o 3 ?. Piensa que si son más de una destreza o proyecto dentro de un mismo desafío **dot1**, entonces cada una va sumando y añadiendo mordidas al cómputo total de 333 y podría sobrepasarse esa cantidad muy rápidamente. Deberías contemplar la idea de si más es menos en ciertas situaciones.  
-- La otra opción es realizar un Desafío 333dot**2** (333 * 2 = 666 mordidas en total) o mayor, separando en distintos "Retos" las destrezas y los proyectos relacionados entre sí dentro del mismo Desafío para que cada uno logre sus 333 mordidas de forma independiente. ¿Mejor tortuga que liebre en algunos casos? Tú mandas, tú decides. Echa un vistazo a mi [Desafío 333dot3 JS-ETH-PROJ](https://github.com/Eccedev/Desafio-333dot3-JS-ETH-PROJ) donde podrás ver cómo uso github para llevar mi control, pero tú decide tu método: escribiendo en una hoja de papel, una plantilla de word, anotando en mensajes guardados de telegram,...  
+- La otra opción es realizar un Desafío 333dot**2** (333 * 2 = 666 mordidas en total) o mayor, separando en distintos "Retos" las destrezas y los proyectos relacionados entre sí dentro del mismo Desafío para que cada uno logre sus 333 mordidas de forma independiente. ¿Mejor tortuga que liebre en algunos casos? Tú mandas, tú decides. Echa un vistazo a mi [Desafío 333dot2 JS-ETH-PROJ](https://github.com/Eccedev/Desafio-333dot2-JS-ETH) donde podrás ver cómo uso github para llevar mi control, pero tú decide tu método: escribiendo en una hoja de papel, una plantilla de word, anotando en mensajes guardados de telegram,...  
    
 Si lees bien La Gran Meta ☝️ debes evitar quemarte o perder el objetivo en el intento y disfrutar del Flow.  
 
