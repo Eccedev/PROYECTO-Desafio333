@@ -74,7 +74,7 @@ Decide tu método para hacer el seguimiento: lo anotas en una hoja de papel, una
 ### Metas extrínsecas-intrínsecas.  
 Una meta extrínseca tiene como objetivo conseguir un logro externo al Desafío333 pero ayudándose de él para alcanzarlo. Por ejemplo “Correr 3000 metros en menos de 12 minutos”. Utilizas el desafío para mantener la motivación y la gestión del esfuerzo y logros mientras entrenas.   
 Una meta intrínseca busca realizar 333 mordidas como objetivo. Por ejemplo:  “Realizar actividad física” durante 333 veces. Morder este hueso no parece interesante pero al incluirlo en un Desafío333 como META cambia su percepción y se vuelve Medible, Explícito, Tangible y Alcanzable.  
-Existe una gran diferencia entre ellas y en las metas extrínsecas crear adecuadamente un desafío333 es un pequeño desafío en sí mismo. Por ello existe la adaptabilidad y flexibilidad total de tu hoja de ruta en cualquier momento.  
+Existe una gran diferencia entre ellas y en las metas extrínsecas crear adecuadamente un desafío333 es un pequeño desafío en sí mismo. Por ello existe la adaptabilidad y flexibilidad total de tu Desafío333 y hoja de ruta en cualquier momento.  
 Sea para conseguir una motivación adecuada y sostenida, un sistema ordenado y flexible o una meta clara y alcanzable el sistema desafío333 puede ser el medio que te ayude a lograr tus objetivos.  
   
 ### ¿Qué son tus huesos?  
