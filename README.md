@@ -15,7 +15,7 @@ Se puede desafiar cualquier hueso que desees morder 😃.
 
 Conseguir mordidas es muy fácil ¡Ya verás!  
 
-###Algunas flexi-normas  
+### Algunas flexi-normas  
 Lógica bioritmos: Los días se dividen en 3 fracciones de 8 h cada una. Tú las determinas. Ejemplo estándar: mañana: de 6h a 14h / tarde: de 14h a 22 h / noche: de 22h a 6h.   
 Incentivo COMIENZO: siempre los primeros 33 minutos en cualquier fracción del día mordiendo un hueso de tu desafío suma +1 mordisco.  
 Premio ESFUERZO: siempre cada 3 horas acumuladas a lo largo del día mordiendo un hueso de tu desafío suma +1 mordisco.  
@@ -32,7 +32,7 @@ Nota: Cada hueso acumula mordidas por su cuenta dentro de su desafío (ver ejemp
 3-Si necesitas algunas mordidas más en una ronda pero menos de 333 simplemente muéstralo mientras lo realizas. Ejemplo: Desafío333 ronda2+48 “Escribir Novela Negra”.  
 Nota de Flexibilidad: Si tu hueso se finaliza sin necesitar 333 mordidas simplemente anótalo sin el signo "+". Ejemplo: Desafío333 "182 mordidas Curso Repostería Vegana". Quizás más adelante le añadas nuevos conocimientos o proyectos a ese desafío y lo superes con creces.  
 
-###Aclaraciones y ejemplos  
+### Aclaraciones y ejemplos  
 Ejemplos:  
 Vamos a imaginar que deseamos crear un Desafío333 para “Desarrollo Web”. Las opciones más lógicas podrían ser aprender HTML, CSS, Javascript y desarrollar proyectos web:  
 (Caso 1) 1 hueso por desafío. Ejemplo para el hueso html: Desafío333 “HTML" = conseguir 333 mordidas sumando mordidas con una solo hueso (HTML).  
@@ -43,7 +43,7 @@ En algunos casos será más conveniente desarrollar los desafíos como independi
 En cualquier momento puedes reajustar tus desafíos, recuerda que todo es adaptable a ti y solo necesitas anotarlo y llevar el control de ello. Es tu desafío, tú decides.  
 ¿Cuál es la elección más efectiva? Todas ellas. Lo tienes que determinar tú pues depende de tus circunstancias 😬.   
 
-¡Vamos a calcular mordidas:  
+### ¡Vamos a calcular mordidas:  
 Ejemplo: Quiero mejorar mi destreza en desarrollo web HTML. El primer día con el hueso HTML en mi Desafío333 “HTML" dedico:  
 durante la mañana 2 h y 10' (+1 primeros 33').  
 durante la tarde 35' (+1 primeros 33')  
@@ -63,18 +63,18 @@ Lo anoto para hacer el seguimiento: 3/1/2023 - Desafío333 “HTML" = 5 mordidas
 Cada día que muerdes intenta anotar fecha, lugar, mordida, sensaciones, notas y link's. Pero sé flexible añadiendo o quitando items según creas necesario...es tu Desafío!      
 Decide tu método para hacer el seguimiento: lo anotas en una hoja de papel, una plantilla de word, en mensajes guardados de telegram, inventa algo tú mism@ y comunícalo para ayudar a otr@s.  
   
-¿Tienes dudas aún? Lee más.  
+¿Tienes dudas aún? Continúa leyendo.  
   
-###Metas extrínsecas-intrínsecas.  
-Una meta extrínseca tiene como objetivo conseguir un logro externo al desafío333 pero ayudándose de él para alcanzarlo. Por ejemplo “Correr 3000 metros en menos de 12 minutos”. Utilizas el desafío para mantener la motivación y la gestión del esfuerzo y logros mientras entrenas.   
-Una meta intrínseca busca realizar 333 mordidas como objetivo. Por ejemplo:  “Realizar actividad física” 333 veces. Morder este hueso no parece interesante pero al incluirlo en un Desafío333 como META cambia su percepción y se vuelve Medible, Explícito, Tangible y Alcanzable.  
+### Metas extrínsecas-intrínsecas.  
+Una meta extrínseca tiene como objetivo conseguir un logro externo al Desafío333 pero ayudándose de él para alcanzarlo. Por ejemplo “Correr 3000 metros en menos de 12 minutos”. Utilizas el desafío para mantener la motivación y la gestión del esfuerzo y logros mientras entrenas.   
+Una meta intrínseca busca realizar 333 mordidas como objetivo. Por ejemplo:  “Realizar actividad física” durante 333 veces. Morder este hueso no parece interesante pero al incluirlo en un Desafío333 como META cambia su percepción y se vuelve Medible, Explícito, Tangible y Alcanzable.  
 Existe una gran diferencia entre ellas y en las metas extrínsecas crear adecuadamente un desafío333 es un desafío en sí mismo. Por ello existe la adaptabilidad y flexibilidad total de tu hoja de ruta en cualquier momento.  
 Sea para conseguir una motivación adecuada y sostenida, un sistema ordenado y flexible o una meta clara y alcanzable el sistema desafío333 puede ser el medio que te ayude a lograr tus objetivos.  
   
-###¿Qué son tus huesos?  
+### ¿Qué son tus huesos?  
 Las destrezas, aprendizajes, proyectos e ideas que pretendas morder para mejorar.  
   
-###¿Destrezas-aprendizajes?  
+### ¿Destrezas-aprendizajes?  
 Las destrezas = aprendizajes. Elegidos por ti para mejorar en ello/s.  
 Normalmente si la meta es extrínseca al desafío, por ejemplo “Conseguir diploma avanzado del idioma japonés”, un desafío puede no ser suficiente y necesitarás diferentes desafíos según el nivel (básico, medio, alto) o uno solo pero realizando rondas sucesivas mientras avanzas.   
 Para otras metas un desafío333 podría ser muy extenso, por ejemplo “Aprender los nombres y localizaciones de mares y océanos”. Aquí podrías necesitar solamente 50 mordidas. En este caso sería conveniente añadir algún hueso al desafío para lograr las 333 mordidas entre todas. ¿Quizás añadir: + “crear una maqueta del mundo señalando mares y océanos” + “descubrir especies endémicas de cada mar y océano”?   
@@ -84,19 +84,19 @@ En cambio, si la meta es intrínseca al desafío, por ejemplo Desafío333 “Med
   
 No subestimes la curva de aprendizaje, mientras más avanzas más vertical se hace. Tu desafío te ayudará a superarla.
 
-###¿Proyectos-ideas?  
+### ¿Proyectos-ideas?  
 Lo que te propongas a realizar. Puede ser una simple idea, un gran proyecto único o varios a desarrollar durante el desafío que te hayas propuesto.   
 Los proyectos suelen aportar mucho valor a los aprendizajes y por ello puntúan igual que cualquier destreza.  
 Al igual que para destrezas y aprendizajes hay que tener clara la meta del proyecto como extrínseca o intrínseca para cuidar la carga de trabajo y aprovechar la virtud de la flexibilidad en este sistema.  
   
-###¿3, 33, 333?
+### ¿3, 33, 333?
 Es un número curioso😃.  
 3 mordidas al día es un ideal muy asequible y la mente se siente regalada pues son "muchas". El 3 es lógico para tu cerebro: fracciones del día, tiempo pasado-presente-futuro, abajo-en medio-arriba, etc. y el orden hace magia mental. Te evita la incertidumbre del 2 y la indefensión ante el 1. ¡¿A que no lo habías visto así?! Hay mucho por descubrir en esta vida😃.  
 33 minutos es un acercamiento al punto medio declarado como tiempo óptimo de atención ante un nuevo conocimiento. Entre ¿20'-45'?¿15'-50'?¿5'-60'? No existe unanimidad ni certeza al respecto pero 33' bien aprovechados dan para mucho ¿Ley de Pareto? relacionado a un sistema de tiempo efectivo y acumulativo.  
 Conseguir 333 mordidas se hace asequible en la mente y permite equilibrar tiempo fraccionado y acumulado. Con ello logramos que encaje la adquisición de una cantidad de aprendizaje evidente y la lógica de active recall y spaced repetition buscando prevenir la curva del olvido.   
 Con este sistema podemos obtener una flexibilidad en volumen, esfuerzo, tiempo y cualquier otro elemento mientras mantenemos el flow.  
   
-###Consejos  
+### Consejos  
 Con este método conseguirás un sistema de tiempo dedicado de forma provechosa y acumulativa basado en hacer tus metas alcanzables.   
 Cualquier META debe ser Medible, Explícita, Tangible y Alcanzable. La meta del desafío raramente se modifica, pero durante el camino pueden aparecer contratiempos y deberás ir readaptándolo. La flexibilidad es una virtud.  
 Un compromiso adquirido te sostiene para mantenerte disciplinado en momentos de desgana. Puede ayudarte el publicar tu desafío y los logros que vayas consiguiendo, pero es tu decisión, tod@s son flexi-normas.  
@@ -107,6 +107,6 @@ Algunas metas se ven imposibles. ¿Cómo las hacemos idealmente alcanzables? Div
 Mira esto👀: Con dedicar SOLO 33' conseguirás 333 mordidas y más de 180 h al mínimo esfuerzo de un solo hueso en un proceso acumulativo en el tiempo. ¡Y con un mes de vacaciones al año 😃!  
 ¿Cuánto tiempo te llevaría si decides realizar un desafío incluyendo tres huesos obteniendo un mínimo de 6 mordidas cada día?.  
   
-###¿Y los aprendizajes cruzados?  
+### ¿Y los aprendizajes cruzados?  
 Es posible que para conseguir tus mordidas vayas mejorando otras habilidades. Un ejemplo puede ser morder un Desafío333 “Meditación Mindfulness" siguiendo un curso en idioma inglés que usa la plataforma educativa Moodle donde se alojan videos, audios y textos...ahí tienes un ejemplo claro , mejorarás en inglés y Moodle sin apenas darte cuenta. ¡Anótalo si te aporta valor!  
 
