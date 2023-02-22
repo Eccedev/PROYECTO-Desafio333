@@ -13,7 +13,9 @@ Es un sistema con ideas lógicas y tan adaptable a ti que lo disfrutarás.
 
 Se puede desafiar cualquier hueso que desees morder 😃.  
 
-Conseguir mordidas es muy fácil ¡Ya verás!  
+Conseguir mordidas es muy fácil ¡Ya verás! 
+
+¿Ayuda? >>> [Discord](https://discord.com/channels/1075361833571057726/1075361834447671388)  
 
 ### Algunas flexi-normas  
 Lógica bioritmos: Los días se dividen en 3 fracciones de 8 h cada una. Tú las determinas. Ejemplo estándar: mañana: de 6h a 14h / tarde: de 14h a 22 h / noche: de 22h a 6h.   
@@ -69,7 +71,7 @@ Lo anoto para hacer el seguimiento: 3/1/2023 - Desafío333 “HTML" = 5 mordidas
 Cada día que muerdes intenta anotar fecha, lugar, mordida, sensaciones, notas y link's. Pero sé flexible añadiendo o quitando items según creas necesario...es tu Desafío!      
 Decide tu método para hacer el seguimiento: lo anotas en una hoja de papel, una plantilla de word, en mensajes guardados de telegram, inventa algo tú mism@ y comunícalo para ayudar a otr@s.  
   
-¿Tienes dudas aún? Continúa leyendo.  
+¿Tienes dudas aún? Continúa leyendo. ¿Ayuda? >>> [Discord](https://discord.com/channels/1075361833571057726/1075361834447671388)   
   
 ### Metas extrínsecas-intrínsecas.  
 Una meta extrínseca tiene como objetivo conseguir un logro externo al Desafío333 pero ayudándose de él para alcanzarlo. Por ejemplo “Correr 3000 metros en menos de 12 minutos”. Utilizas el desafío para mantener la motivación y la gestión del esfuerzo y logros mientras entrenas.   
@@ -117,7 +119,7 @@ Un compromiso adquirido te sostiene para mantenerte disciplinado en momentos de 
   
 Es igual de valioso disfrutar el tiempo de descanso para “descansar” que aprovechar el tiempo de trabajo para “trabajar”.  
   
-Crear un desafío por nosotr@s mism@s es dirigir nuestra energía a una meta apoyándonos en la motivación y compromiso. ¿Cómo conseguir estas metas cuando estamos desmotivad@s? Con constancia, visualizando la meta y apoyándote en tu pilares sociales (familia, amig@s y comunidad).  
+Crear un desafío por nosotr@s mism@s es dirigir nuestra energía a una meta apoyándonos en la motivación y compromiso. ¿Cómo conseguir estas metas cuando estamos desmotivad@s? Con constancia, visualizando la meta y apoyándote en tu pilares sociales (familia, amig@s y comunidad...¿Ayuda? >>> [Discord](https://discord.com/channels/1075361833571057726/1075361834447671388)).  
   
 Tu desafío333 te ayuda a ser constante manteniendo una dedicación flexible en el tiempo. ¡Ojo👀! Las evidencias muestran que sin ganas también se pueden lograr metas. 
   
@@ -136,5 +138,7 @@ Atrapando como idea el post de [freecodecamp](https://www.freecodecamp.org/news/
 Como proyecto te animo a ser parte de él proponiendo mejoras y aportando ideas, realizando un desafío y publicándolo con #midesafio333, uniéndote y creando contenido específico en rrss, ayudando a desarrollar una app para crear desafíos y gestión de mordidas, etc.
 
 Creo que puede ser de gran ayuda a tod@s pues nos mantendrá prendad@s a una Meta mientras realizamos un desafío que hemos creado nosotro@s mismos. Informa al universo en qué te desafías con #midesafio333 .
+
+Tu comunidad Desafío333 en [Discord](https://discord.com/channels/1075361833571057726/1075361834447671388)
  
 
