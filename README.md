@@ -1,91 +1,112 @@
     
-# [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas)
+# [Desafío333](https://github.com/Eccedev/Desafio333)
 
-## ¿Qué es un [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas)  #midesafio333dot ?  
-Un Desafío🚀 mordiendo destrezas y desarrollos de proyectos e ideas para lograr La Gran Meta👀 en estado de flow😎.  
+## ¿Qué es un Desafío333?  
+
+Es un sistema para lograr metas🚀.  
+
+Un Desafío333 tiene como objetivo hacerte sentir en flow😎 mientras das “mordidas” a tus huesos😬 😃.  
+
+Tus huesos son las destrezas/aprendizajes y proyectos/ideas que deseas lograr.  
+
+Es un sistema con ideas lógicas y tan adaptable a ti que lo disfrutarás.  
+
+Se puede desafiar cualquier hueso que desees morder 😃.  
+
+Conseguir mordidas es muy fácil ¡Ya verás!  
+
+###Algunas flexi-normas  
+Lógica bioritmos: Los días se dividen en 3 fracciones de 8 h cada una. Tú las determinas. Ejemplo estándar: mañana: de 6h a 14h / tarde: de 14h a 22 h / noche: de 22h a 6h.   
+Incentivo COMIENZO: siempre los primeros 33 minutos en cualquier fracción del día mordiendo un hueso de tu desafío suma +1 mordisco.  
+Premio ESFUERZO: siempre cada 3 horas acumuladas a lo largo del día mordiendo un hueso de tu desafío suma +1 mordisco.  
+Premio CONSTANCIA: siempre al acumular 33 mordiscos suma +1 mordisco.  
+Regalo FINALIZACIÓN: siempre la última mordida de un desafío se dedicará a mostrar o aplicar las mejoras y desarrollos conseguidos durante el recorrido.  
+Lógica del compromiso: Cuando te lances a morder tu desafío comprométete contigo mismo. Una buena idea podría ser publicándolo en tu comunidad (red social) con #midesafio333.  
+Lógica de motivación: lleva un seguimiento de tus mordidas y tiempo dedicado-acumulado y muestra al mundo tus mejoras y logros.  
+Lógica aprendizaje acumulativo: siempre se supera un desafío cuando se dan al menos 333 mordidas. (leer nota abajo).  
+Lógica adaptativa: un mismo desafío puede incluir uno o varios huesos, debiendo estar relacionados entre sí y donde cada uno acumula mordidas de forma independiente dentro del desafío. (leer nota y ejemplos abajo)  
+Lógica realista: pon tus objetivos "alcanzables" y crea un desafío adaptado a ti. Si fuera necesario lo podrías reajustar posteriormente.  
+Nota: Cada hueso acumula mordidas por su cuenta dentro de su desafío (ver ejemplos más abajo) por lo que incluir muchas de estas dentro de un mismo desafío podría hacerte conseguir las 333 mordidas muy rápidamente y decepcionarte. Si esto sucediera tienes varias alternativas:   
+1-Si necesitas algunas mordidas más pero estas serán menos de 333 simplemente muéstralo mientras lo realizas. Ejemplo: Desafío333 +96 “Inglés Avanzado”.  
+2-si necesitas mínimo otras 333 mordidas añade una segunda ronda a tu desafío, o más si lo crees necesario. Ejemplo: Desafío333 ronda2 “Agricultura Ecológica”.  
+3-Si necesitas algunas mordidas más en una ronda pero menos de 333 simplemente muéstralo mientras lo realizas. Ejemplo: Desafío333 ronda2+48 “Escribir Novela Negra”.  
+Nota de Flexibilidad: Si tu hueso se finaliza sin necesitar 333 mordidas simplemente anótalo sin el signo "+". Ejemplo: Desafío333 "182 mordidas Curso Repostería Vegana". Quizás más adelante le añadas nuevos conocimientos o proyectos a ese desafío y lo superes con creces.  
+
+###Aclaraciones y ejemplos  
+Ejemplos:  
+Vamos a imaginar que deseamos crear un Desafío333 para “Desarrollo Web”. Las opciones más lógicas podrían ser aprender HTML, CSS, Javascript y desarrollar proyectos web:  
+(Caso 1) 1 hueso por desafío. Ejemplo para el hueso html: Desafío333 “HTML" = conseguir 333 mordidas sumando mordidas con una solo hueso (HTML).  
+(Caso 2) 2 huesos relacionados en un solo 1 desafío. Por ejemplo: Desafío333 “Frontend Básico" o Desafío333 “HTML/CSS” = conseguir 333 mordidas utilizando 2 huesos diferentes relacionadas, en este caso HTML y CSS, donde cada uno suma y acumula mordidas a un cómputo único de 333.  
+(Caso 3) 3 huesos…y así sucesivamente.  
+Los Desafíos de 1 hueso tienen una duración media aproximada de 2.5 a 6 meses. Los de 2 destrezas o proyectos de 2 a 5 meses, los de 3 de 1.5 a 4 meses. Crear un desafío puede ser un pequeño desafío en sí mismo pues hay que buscar el equilibrio entre circunstancias personales y lograr “aprender” o “desarrollar” lo previsto, haciendo confluir adecuadamente el tiempo dedicado al acumulado.  
+En algunos casos será más conveniente desarrollar los desafíos como independientes (Caso 1), y en otros uniendo diferentes huesos (Caso 2 y siguientes). Valóralo por ti mism@ o ayúdate de la comunidad ¡Para eso estamos!  
+En cualquier momento puedes reajustar tus desafíos, recuerda que todo es adaptable a ti y solo necesitas anotarlo y llevar el control de ello. Es tu desafío, tú decides.  
+¿Cuál es la elección más efectiva? Todas ellas. Lo tienes que determinar tú pues depende de tus circunstancias 😬.   
+
+¡Vamos a calcular mordidas:  
+Ejemplo: Quiero mejorar mi destreza en desarrollo web HTML. El primer día con el hueso HTML en mi Desafío333 “HTML" dedico:  
+durante la mañana 2 h y 10' (+1 primeros 33').  
+durante la tarde 35' (+1 primeros 33')  
+durante la noche duermo😴  
+Total tiempo dedicado: 2 h 45' (+0 (mínimo 3 h de esfuerzo))  
+-Total mordidas día: 1+1 = 2 mordidas para ese hueso.  
+Lo anoto para hacer el seguimiento: 1/1/2023 - Desafío333 “HTML" = 2 mordidas / 2 h 45'. ¡Acumulado total: 2 mordidas / 2 h 45'!  
   
-Tu familia, amig@s y conocid@s estarán orgullos@s por tus destrezas, experiencia y desarrollos de proyectos logrados. Y ahora lo mejor ¡No te pongas nervios@! Pero el mundo pondrá sus ojos en ti😃 si lo publicas y mencionas **#midesafio333dot** y a [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas).  
+...Dos días más tarde muerdo otra vez HTML de Desafío333 “HTML":  
+durante la mañana 5 h y 40' (+1 primeros 33')  
+durante la tarde viajo👩‍🚀  
+durante la noche 3 h 50' (+1 primeros 33')  
+Total tiempo dedicado: 9 h 30' (+3 mordidas (+1 cada 3 h))  
+Total mordidas día: 1+1+3 = 5 mordidas para ese día a ese hueso.  
+Lo anoto para hacer el seguimiento: 3/1/2023 - Desafío333 “HTML" = 5 mordidas / 9 h 30'. ¡Acumulado total: 7 mordidas / 12 h 15'!  
   
-Nota: Se puede desafiar cualquier cosa que desees morder jaja.
-
-### Algunas normas. Sé flexible y adáptalas a ti si te unes.  
-**La Gran Meta** 👀 es sentirte en flow😎 durante el recorrido de mejora, aprendizaje o desarrollo y ser una mejor versión de ti mismo al lograr tus objetivos, es decir, un **sistema de tiempo provechoso dedicado y acumulativo basado en objetivos alcanzables**. ¡Esta idea es la más importante!  
-
-**[Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas)** está pensado para conseguir dar al menos 333 **mordidas de fracciones** de cada día aprovechado entre las **destrezas** y **proyectos** seleccionados por uno mismo. Sé realista y pon tus objetivos "alcanzables". No dudes en aplicar flexi-normas como readaptar tu desafío, tu objetivo y hoja de ruta si lo crees necesario. Y si necesitas apoyo no dudes y pídelo. 
+Cada día que muerdes intenta anotar fecha, lugar, mordida, sensaciones, notas y link's. Pero sé flexible añadiendo o quitando items según creas necesario...es tu Desafío!      
+Decide tu método para hacer el seguimiento: lo anotas en una hoja de papel, una plantilla de word, en mensajes guardados de telegram, inventa algo tú mism@ y comunícalo para ayudar a otr@s.  
   
-¡Ah! Está demostrado que si informas al universo adquieres un compromiso contigo mismo que te facilitará terminar tu Desafío. Ser terrícola inteligente = publicar tu Desafío con **#midesafio333dot** y si quieres comunica su origen https://github.com/Eccedev/Desafio-333dotX-Mordidas .  
-
-No olvides llevar un seguimiento de tus mordidas y tiempo dedicado-acumulado y mostrarlo al mundo. Tod@s querrán saber de tus tus avances. [Mira mi ejemplo](https://github.com/Eccedev/Desafio-333dot2-JS-ETH/blob/main/Reto%20333dot3%20JS%20y%20su%20entorno.md).  
+¿Tienes dudas aún? Lee más.  
   
-### Es de bien nacidos ser agradecidos.  
-Si te gusta la idea del [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas) menciónalo y añade **#midesafio333dot** en tus publicaciones. Cualquiera puede ayudar a mejorar el proyecto Desafío 333dotX Mordidas. Solo necesita desafiarse a sí mismo frente al universo o con amig@s y contarlo. Esto puede ser una cadena increíble de acontecimientos maravillosos a pesar que estamos mordiendo cosas 😬 😃. ¡Anima a tus conocidos! Podrían desafiarse en grupo para lograr conquistar el mundo mejorando o creando muchas destrezas y proyectos.  
-
-#### ¿Cómo conseguir mordidas?  
-- Caso 1: En un solo "Desafío 333dot**1**" (333 * 1) en el que se incluya una o varias destreza/s y proyecto/s que guarden relación entre sí pero que su objetivo es conseguir una sola vez dar 333 mordidas.  
-- Caso 2: En un "Desafío 333dot**X**" (333 * x; x = número de retos) en el que dentro del desafío hay varias destreza/s y proyecto/s llamados "Retos" pues, a pesar de estar relacionados entre sí, cada uno debe conseguir 333 mordidas de forma independiente. Según el número de Retos se denominará 333dot2 para 2 retos (acumulará 666 mordidas), 333dot3 para 3 (acumulará 999), etc. [Mira mi Desafío 333dot2 JS-ETH-PROJ](https://github.com/Eccedev/Desafio-333dot2-JS-ETH) 
-
-**Ejemplos: En Desarrollo Web tus desafíos podrían ser:**  
-- (Caso 1a) "Desafío 333dot**1** HTML"  = conseguir 333 mordidas sumando mordidas como una sola destreza llamada HTML, por ello es **dot1**.  
-- (Caso 1b) "Desafío 333dot**1** Frontend" = conseguir 333 mordidas sumando mordidas desde 2 destrezas diferentes relacionadas, en este caso podría ser HTML Y CSS, por ello es también **dot1**.  
-- (Caso 2) "Desafío 333dot**3** HTML-CSS-PROYECTO" = Ahora ese **dot3** nos indica que dentro de ese desafío hay 3 **Retos** relacionados entre sí (por ejemplo HTML, CSS Y UN PROYECTO WEB) PERO cada Reto debe conseguir dar sus 333 mordidas de forma independiente. Al final en **dot3** se darán 333 * 3 = 999 mordidas.  
-
-¿Cuál es más efectivo? Lo decides tú pues son tus mordidas😬 y tu Desafío. 
-Nota: si alcanzas muy temprano tus 333 mordidas podrías sentirte algo decepcionado pero se soluciona añadiendo una segunda ronda o más a ese mismo desafío...hasta que creas que debes de cambiar a otro diferente. Por ejemplo, lograste dar 333 mordidas a tu "Desafío 333dot1 Frontend" (Caso 1b arriba mencionado) pero quieres continuarlo o repetirlo para evolucionar más. Simplemente lo denominas "Desafío 333dot1 Ronda2 Frontend". Ponte tú los límites, adapta el desafío si es necesario e informa siempre dichas adaptaciones con **#midesafio333dot** para que tod@s pongan sus ojitos en ti jaja.  
-
-#### ¿Mordidas y Fracciones?  
-Cada día se divide en 3 posibles fracciones: mañana, tarde y noche.  
-En cada fracción (parte del día) se suma una mordida si se ha mordido (dedicado) al menos 33 minutos a una destreza (habilidad, aprendizaje) o proyecto.  
-Los excesos de tiempo durante esa fracción (parte del día) o día solo suman otra mordida más si se acumula al menos 3 h (horas) y 33' (minutos) de dedicación a esa misma habilidad o proyecto. ¡Recuerda La Gran Meta ☝️ y disfruta!  
-Para una destreza o proyecto concreto el máximo de mordidas por día será 3. ¿Máximo 3❓? Porque la suma de los tiempos mínimos acumulados superarían las 4 h; porque aumentar más de 3 mordidas no sería un aprendizaje provechoso y acumulativo para una habilidad concreta en un día a largo plazo; porque tres mordidas a la misma cosa son muchas para el mismo perr@ :-). 
+###Metas extrínsecas-intrínsecas.  
+Una meta extrínseca tiene como objetivo conseguir un logro externo al desafío333 pero ayudándose de él para alcanzarlo. Por ejemplo “Correr 3000 metros en menos de 12 minutos”. Utilizas el desafío para mantener la motivación y la gestión del esfuerzo y logros mientras entrenas.   
+Una meta intrínseca busca realizar 333 mordidas como objetivo. Por ejemplo:  “Realizar actividad física” 333 veces. Morder este hueso no parece interesante pero al incluirlo en un Desafío333 como META cambia su percepción y se vuelve Medible, Explícito, Tangible y Alcanzable.  
+Existe una gran diferencia entre ellas y en las metas extrínsecas crear adecuadamente un desafío333 es un desafío en sí mismo. Por ello existe la adaptabilidad y flexibilidad total de tu hoja de ruta en cualquier momento.  
+Sea para conseguir una motivación adecuada y sostenida, un sistema ordenado y flexible o una meta clara y alcanzable el sistema desafío333 puede ser el medio que te ayude a lograr tus objetivos.  
   
-**Ejemplo 1**: Quiero mejorar mi destreza en desarrollo web HTML. El primer día en mi "Desafío 333dot1 HTML" dedico:  
-durante la mañana 2 h y 10' (= 1 mordida),  
-durante  la tarde 35' (= 1 mordida),  
-durante  la noche duermo😴.  
-Total 1+1= 2 mordidas para esa habilidad.  
-Lo anoto para hacer el seguimiento: **"1/1/2023 - Desafío 333dot1 HTML" = 2 mordidas / 2 h 45'. Acumulado 2 mordidas / 2 h 45'.**  
-
-**Ejemplo 2**: La segunda vez (otro día diferente) que dedico al "Desafío 333dot1 HTML":  
-durante la mañana 3 h y 40' (= 2 mordidas),  
-durante la tarde tarde viajo👩‍🚀,  
-durante la noche 3 h 50' (= 2 mordidas ⛔ojo ).  
-Total 2+2 (📢se sobrepasa el límite máximo diario) = 3 mordidas para ese día en esa habilidad.  
-Lo anoto para hacer el seguimiento: **"4/1/2023 - Desafío 333dot1 HTML" = 3 mordidas / 7 h 30'. Acumulado 5 mordidas / 10 h 15'.**  
+###¿Qué son tus huesos?  
+Las destrezas, aprendizajes, proyectos e ideas que pretendas morder para mejorar.  
   
-Mira mi ejemplo real de [Github](https://github.com/Eccedev/Desafio-333dot2-JS-ETH/blob/main/Reto%20333dot3%20JS%20y%20su%20entorno.md): cada día que muerdo intento anotar fecha, lugar, mordida, sensaciones y link's. Pero como soy flexible iré añadiendo o quitando items según crea necesario...es mi Desafío!
+###¿Destrezas-aprendizajes?  
+Las destrezas = aprendizajes. Elegidos por ti para mejorar en ello/s.  
+Normalmente si la meta es extrínseca al desafío, por ejemplo “Conseguir diploma avanzado del idioma japonés”, un desafío puede no ser suficiente y necesitarás diferentes desafíos según el nivel (básico, medio, alto) o uno solo pero realizando rondas sucesivas mientras avanzas.   
+Para otras metas un desafío333 podría ser muy extenso, por ejemplo “Aprender los nombres y localizaciones de mares y océanos”. Aquí podrías necesitar solamente 50 mordidas. En este caso sería conveniente añadir algún hueso al desafío para lograr las 333 mordidas entre todas. ¿Quizás añadir: + “crear una maqueta del mundo señalando mares y océanos” + “descubrir especies endémicas de cada mar y océano”?   
+Si decides no morder 333 veces ¿qué tal si lo conviertes en un Desafío333 "50 mordidas Mares y océanos"? Aprovechas y sigues la lógica pero solo necesitas 50 ¿Por qué no? Es tu desafío ¡Yo no tendría miedo! Más adelante podrías aumentar esa cantidad porque te haces marinero!!!  
   
+En cambio, si la meta es intrínseca al desafío, por ejemplo Desafío333 “Meditaciones Mindfulness”, solo necesitas un desafío pensando en tus intereses y apoyándote en el sistema para tener una META motivadora, en este caso morder 333 veces realizando Mindfulness. Cada persona adapta su desafío a sus deseos y necesidades.  
   
-- Si sólo muerdes una destreza o projecto el Desafío 333**dot1** es el correcto.  
-- Pero el número de destrezas y proyectos máximos relacionados entre sí a desarrollar a la misma vez en un **Desafío 333dot1 Mordidas** (333 * 1 = 333 mordidas) se aconseja que no supere ¿ 1, 2 o 3 ?. Piensa que si son más de una destreza o proyecto dentro de un mismo desafío **dot1**, entonces cada una va sumando y añadiendo mordidas al cómputo total de 333 y podría sobrepasarse esa cantidad muy rápidamente. Deberías contemplar la idea de si más es menos en ciertas situaciones.  
-- La otra opción es realizar un Desafío 333dot**2** (333 * 2 = 666 mordidas en total) o mayor, separando en distintos "Retos" las destrezas y los proyectos relacionados entre sí dentro del mismo Desafío para que cada uno logre sus 333 mordidas de forma independiente. ¿Mejor tortuga que liebre en algunos casos? Tú mandas, tú decides. Echa un vistazo a mi [Desafío 333dot2 JS-ETH-PROJ](https://github.com/Eccedev/Desafio-333dot2-JS-ETH) donde podrás ver cómo uso github para llevar mi control, pero tú decide tu método: escribiendo en una hoja de papel, una plantilla de word, anotando en mensajes guardados de telegram,...  
-   
-Si lees bien La Gran Meta ☝️ debes evitar quemarte o perder el objetivo en el intento y disfrutar del Flow.  
+No subestimes la curva de aprendizaje, mientras más avanzas más vertical se hace. Tu desafío te ayudará a superarla.
 
-### ¿Destrezas, habilidades, aprendizajes?  
-Las habilidades = destrezas o aprendizajes elegidos por ti a mejorar. Puedes hacer un seguimiento de tu evolución en tu hoja de ruta anotando tus logros diarios en un papel, github, discord o cualquier otro medio.
-
-No subestimes la curva de aprendizaje, mientras más avanzas más vertical se hace.  
-
-### ¿Proyectos?  
-Lo que te propongas a realizar. Puede ser una simple idea, un gran proyecto único o varios proyectos a desarrollar durante el desafío que te hayas propuesto. Los proyectos suelen aportar mucho valor a los aprendizajes y por ello puntúan igual que cualquier habilidad a mejorar.
-
-### ¿333?  
-Es que casi todo encajaba y se aligeraba cuando se basaba en 3 y pensando en la implicación personal conseguir 333 mordidas se hace muy asequible. Mira esto👀: Dedicar solo 33' al día durante 333 días te hace conseguir 333 mordidas al mínimo de esfuerzo, es decir, más de 183 h dedicadas a una destreza en un proceso acumulativo en el tiempo como requiere La Gran Meta: tiempo provechoso dedicado a mejorar. ¿Y con un mes de vacaciones al año 😃!  
-
-¿Cuánto te llevaría si decides realizar tu desafío obteniendo 3 mordidas cada día? ¿Quizás mejor sumar doble incluyendo a un desafío un aprendizaje  + un proyecto para lograr tus mordidas más rápidamente?  
-
-### ¿Y los aprendizajes cruzados?  
-
-Es posible que para conseguir tus mordidas vayas mejorando otras habilidades. Un ejemplo puede ser morder un "Desafío 333dot1 HTML" siguiendo un curso en inglés que usa Github para depositar repositorios de tus web...ahí tienes un ejemplo claro , mejorarás en inglés y Github sin apenas darte cuenta. ¡Anótalo si te ha aportado valor!  
+###¿Proyectos-ideas?  
+Lo que te propongas a realizar. Puede ser una simple idea, un gran proyecto único o varios a desarrollar durante el desafío que te hayas propuesto.   
+Los proyectos suelen aportar mucho valor a los aprendizajes y por ello puntúan igual que cualquier destreza.  
+Al igual que para destrezas y aprendizajes hay que tener clara la meta del proyecto como extrínseca o intrínseca para cuidar la carga de trabajo y aprovechar la virtud de la flexibilidad en este sistema.  
   
-### ¿Por qué 33 minutos?¿Por qué 3 fracciones por día?¿por qué esto y por qué lo otro?
-Todo tiene un porque en lo que lees en estas líneas pero es que este README se está alargando demasiado😅.  
+###¿3, 33, 333?
+Es un número curioso😃.  
+3 mordidas al día es un ideal muy asequible y la mente se siente regalada pues son "muchas". El 3 es lógico para tu cerebro: fracciones del día, tiempo pasado-presente-futuro, abajo-en medio-arriba, etc. y el orden hace magia mental. Te evita la incertidumbre del 2 y la indefensión ante el 1. ¡¿A que no lo habías visto así?! Hay mucho por descubrir en esta vida😃.  
+33 minutos es un acercamiento al punto medio declarado como tiempo óptimo de atención ante un nuevo conocimiento. Entre ¿20'-45'?¿15'-50'?¿5'-60'? No existe unanimidad ni certeza al respecto pero 33' bien aprovechados dan para mucho ¿Ley de Pareto? relacionado a un sistema de tiempo efectivo y acumulativo.  
+Conseguir 333 mordidas se hace asequible en la mente y permite equilibrar tiempo fraccionado y acumulado. Con ello logramos que encaje la adquisición de una cantidad de aprendizaje evidente y la lógica de active recall y spaced repetition buscando prevenir la curva del olvido.   
+Con este sistema podemos obtener una flexibilidad en volumen, esfuerzo, tiempo y cualquier otro elemento mientras mantenemos el flow.  
+  
+###Consejos  
+Con este método conseguirás un sistema de tiempo dedicado de forma provechosa y acumulativa basado en hacer tus metas alcanzables.   
+Cualquier META debe ser Medible, Explícita, Tangible y Alcanzable. La meta del desafío raramente se modifica, pero durante el camino pueden aparecer contratiempos y deberás ir readaptándolo. La flexibilidad es una virtud.  
+Un compromiso adquirido te sostiene para mantenerte disciplinado en momentos de desgana. Puede ayudarte el publicar tu desafío y los logros que vayas consiguiendo, pero es tu decisión, tod@s son flexi-normas.  
+Es igual de valioso disfrutar el tiempo de descanso para “descansar” que aprovechar el tiempo de trabajo para “trabajar”.  
+Crear un desafío por nosotr@s mism@s es dirigir nuestra energía a una meta apoyándonos en la motivación y compromiso. ¿Cómo conseguir estas metas cuando estamos desmotivad@s? Con constancia, visualizando la meta y apoyándote en tu pilares sociales (familia, amig@s y comunidad).  
+Tu desafío333 te ayuda a ser constante manteniendo una dedicación flexible en el tiempo. ¡Ojo👀! Las evidencias muestran que sin ganas también se pueden lograr metas.  
+Algunas metas se ven imposibles. ¿Cómo las hacemos idealmente alcanzables? Dividiéndolas en otras más asequibles y, si estas continúan siendo arduas, pues se subdividen hasta que sean alcanzables  
+Mira esto👀: Con dedicar SOLO 33' conseguirás 333 mordidas y más de 180 h al mínimo esfuerzo de un solo hueso en un proceso acumulativo en el tiempo. ¡Y con un mes de vacaciones al año 😃!  
+¿Cuánto tiempo te llevaría si decides realizar un desafío incluyendo tres huesos obteniendo un mínimo de 6 mordidas cada día?.  
+  
+###¿Y los aprendizajes cruzados?  
+Es posible que para conseguir tus mordidas vayas mejorando otras habilidades. Un ejemplo puede ser morder un Desafío333 “Meditación Mindfulness" siguiendo un curso en idioma inglés que usa la plataforma educativa Moodle donde se alojan videos, audios y textos...ahí tienes un ejemplo claro , mejorarás en inglés y Moodle sin apenas darte cuenta. ¡Anótalo si te aporta valor!  
 
-### Tributo.  
-Atrapando como idea el post de [freecodecamp](https://www.freecodecamp.org/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/) y [Alex Kallaway](https://github.com/Kallaway/100-days-of-code) quiero ir un poco más allá y me he propuesto a realizar un seguimiento a mi desarrollo de destrezas y proyectos bajo este sistema que he llamado "Desafío 333dot3 mordidas".  
-  
-Con él no solo pretendo mejorar en "x veces aplicando" sino que la dedicación tendrá una dirección definida: El Desafío será el medio con el que conseguirlo pero el fin es La Gran Meta👀, es decir, obtener o mejorar una destreza-aprendizaje o desarrollar una idea o proyecto/s. Como anotamos más arriba, conseguir superar un [Desafío 333dotX Mordidas](https://github.com/Eccedev/Desafio-333dotX-Mordidas) sin haber logrado La Gran Meta👀 deseada (aprendizaje, mejora o desarrollo (en flow😎)) nos advertirá que hemos dimensionado algo erróneamente en nuestro Desafío pero ¡No hay problema! Se añade una ronda nueva (Ronda2, Ronda3...) y se continúa hasta lograrlo. ¡Tu próximo Desafío será el más fix&fit del universo jaja! No olvides informar al universo de tus logros y publícalo con **#midesafio333dot** .  
-  
-  
-Es una idea a desarrollar y también un experimento con vistas a pasarlo bien y mantenerme motivado mientras mejoro destrezas y desarrollo proyectos. Creo que puede ser de gran ayuda a tod@s pues te mantendrá prendad@ a tu Meta mientra realizas un juego que tú mism@ has elegido, tu Desafío 333dotX Mordidas. Informa al universo en qué te desafías, publícalo con **#midesafio333dot** e informa a los terrestres y extraterrestres de tus avances...y ¡[Cópiame la idea que la distribuyo opensource 😃](https://github.com/Eccedev/Desafio-333dotX-Mordidas)! 
- 
