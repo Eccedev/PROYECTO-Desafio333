@@ -1,11 +1,11 @@
     
 # [Desafío333](https://github.com/Eccedev/PROYECTO-Desafio333)
 
-## ¿Qué es un Desafío333?  
+## ¿Qué es y cómo funciona un Desafío333?  
 
 Es un sistema para lograr metas🚀.  
 
-Un Desafío333 tiene como objetivo hacerte sentir en flow😎 mientras das “mordidas” a tus huesos😬 😃.  
+Desafío333 tiene como objetivo hacerte sentir en flow😎 mientras das “mordidas” a tus huesos😬 😃.  
 
 Tus huesos son las destrezas/aprendizajes y proyectos/ideas que deseas lograr.  
 
@@ -20,28 +20,30 @@ Conseguir mordidas es muy fácil ¡Ya verás!
 ### Algunas flexi-normas  
 Lógica bioritmos: Los días se dividen en 3 fracciones de 8 h cada una. Tú las determinas. Ejemplo estándar: mañana: de 6h a 14h / tarde: de 14h a 22 h / noche: de 22h a 6h.   
 Incentivo COMIENZO: siempre los primeros 33 minutos en cualquier fracción del día mordiendo un hueso de tu desafío suma +1 mordisco.  
-Premio ESFUERZO: siempre cada 3 horas acumuladas a lo largo del día mordiendo un hueso de tu desafío suma +1 mordisco.  
+Premio ESFUERZO: siempre cada 3 horas acumuladas a lo largo del día mordiendo cualquier hueso de tu desafío suma +1 mordisco.  
 Premio CONSTANCIA: siempre al acumular 33 mordiscos suma +1 mordisco.  
 Regalo FINALIZACIÓN: siempre la última mordida de un desafío se dedicará a mostrar o aplicar las mejoras y desarrollos conseguidos durante el recorrido. 
   
-Lógica del compromiso: Cuando te lances a morder tu desafío comprométete contigo mismo. Una buena idea podría ser publicándolo en tu comunidad (red social) con #midesafio333.  
+Lógica del compromiso: Cuando te lances a morder tu desafío comprométete contigo mismo. Una buena idea es comunicándolo a tu "red social". Si lo haces digital usa #midesafio333..  
 Lógica de motivación: lleva un seguimiento de tus mordidas y tiempo dedicado-acumulado y muestra al mundo tus mejoras y logros.  
-Lógica aprendizaje acumulativo: siempre se supera un desafío cuando se dan al menos 333 mordidas. (leer nota abajo para excepciones flexibles).  
+Lógica aprendizaje acumulativo*: siempre se supera un desafío cuando se dan al menos 333 mordidas. (*leer nota de excepciones abajo).  
 Lógica adaptativa: un mismo desafío puede incluir uno o varios huesos, debiendo estar relacionados entre sí y donde cada uno acumula mordidas de forma independiente dentro del desafío. (leer nota y ejemplos abajo)  
 Lógica realista: pon tus objetivos "alcanzables" y crea un desafío adaptado a ti. Si fuera necesario lo podrías reajustar posteriormente.  
   
-Nota: Cada hueso acumula mordidas por su cuenta dentro de su desafío (ver ejemplos más abajo) por lo que incluir muchas de estas dentro de un mismo desafío podría hacerte conseguir las 333 mordidas muy rápidamente y decepcionarte. Si esto sucediera tienes varias alternativas:   
-1-Si necesitas algunas mordidas más pero estas serán menos de 333 simplemente muéstralo mientras lo realizas. Ejemplo: Desafío333 +96 “Inglés Avanzado”.  
-2-si necesitas mínimo otras 333 mordidas más añade una segunda ronda a tu desafío (o más si lo crees necesario). Ejemplo: Desafío333 ronda2 “Agricultura Ecológica”.  
-3-Si necesitas algunas mordidas más en una ronda pero menos de 333 simplemente muéstralo mientras lo realizas. Ejemplo: Desafío333 ronda2+38 “Escribir Novela Negra”.  
+Nota: La cantidad de huesos en un desafío lo hace muy flexible. Ten en cuenta estos dos eventos:  
   
-Nota de excepción flexible: Si tu hueso se finaliza sin necesitar 333 mordidas simplemente anótalo sin el signo "+". Ejemplo: Desafío333 "182 mordidas Curso Repostería Vegana". Quizás más adelante le añadas nuevos conocimientos o proyectos a ese desafío y lo superes con creces. ¿O puede ser que quieras presumir que pudiste finalizarlo sin necesitar 333 mordidas porque estás hecho un PRO mordiendo huesos? ¡Es tu desafío, jef@! 
+Evento 1: Incluir muchos huesos dentro de un mismo desafío podría hacerte conseguir las 333 mordidas muy rápidamente y decepcionarte. Si esto sucediera tienes estas soluciones:  
+1-Si necesitas algunas mordidas más pero estas serán menos de 333 simplemente muéstralo con un '+' mientras lo realizas. Ejemplo: Desafío333 +96 “idioma Alemán Avanzado”.  
+2-si necesitas como mínimo otras 333 mordidas más, entonces añade una segunda ronda a tu desafío (o más si lo crees necesario). Ejemplo: Desafío333 ronda2 “Agricultura Ecológica”.  
+3-Si necesitas algunas mordidas más al finalizar una ronda. pero menos de 333, simplemente muéstralo con un '+' mientras lo realizas. Ejemplo: Desafío333 ronda2+38 “Escribir Novela Negra”.  
+  
+Evento 2: *Nota de excepción flexible: Si tu hueso se finaliza sin necesitar 333 mordidas, entonces simplemente anótalo sin el signo "+". Ejemplo: Desafío333 "182 mordidas Curso Repostería Vegana". Quizás más adelante le añadas nuevos conocimientos o proyectos a ese desafío y lo superes con creces. ¿O puede ser que quieras presumir que pudiste finalizarlo sin necesitar 333 mordidas porque estás hech@ un PRO mordiendo huesos? ¡Es tu desafío, jef@!
 
 ### Aclaraciones y ejemplos  
 Ejemplos:  
-Vamos a imaginar que deseamos crear un Desafío333 para “Desarrollo Web”. Las opciones más lógicas podrían ser aprender HTML, CSS, Javascript y desarrollar proyectos web:  
-(Caso 1) 1 hueso por desafío. Ejemplo para el hueso html: Desafío333 “HTML" = conseguir 333 mordidas sumando mordidas con una solo hueso (HTML).  
-(Caso 2) 2 huesos relacionados en un solo 1 desafío. Por ejemplo: Desafío333 “Frontend Básico" o Desafío333 “HTML/CSS” = conseguir 333 mordidas utilizando 2 huesos diferentes relacionadas, en este caso HTML y CSS, donde cada uno suma y acumula mordidas a un cómputo único de 333.  
+Vamos a imaginar que deseamos crear un Desafío333 para morder el lenguaje de programación “JavaScript (JS)”. Las opciones más lógicas podrían ser:  
+(Caso 1) 1 hueso por desafío. Ejemplo para el hueso JavaScript: Desafío333 “JavaScript" = conseguir 333 mordidas sumando mordidas con una solo hueso: JavaScript en general. ¡Ehhh, te aseguramos que aprenderás mucho Javascript!  
+(Caso 2) 2 huesos relacionados en un solo 1 desafío. Por ejemplo: Desafío333 “JavaScript y Proyectos JS” = conseguir 333 mordidas utilizando 2 huesos diferentes relacionados, en este caso aprender JavaScript y desarrollar proyectos utilizando JS. Cada uno suma y acumula mordidas a un cómputo único de 333. ¡Guauuu, aprendiendo y haciendo, símplemente bestial!  
 (Caso 3) 3 huesos…y así sucesivamente.  
   
 Los Desafíos de 1 hueso tienen una duración media aproximada de 2.5 a 6 meses. Los de 2 huesos de 2 a 5 meses, los de 3 de 1.5 a 4 meses. Crear un desafío puede ser un pequeño desafío en sí mismo pues hay que buscar el equilibrio entre circunstancias personales y lograr “aprender” o “desarrollar” lo previsto, haciendo confluir adecuadamente el tiempo dedicado al acumulado.  
@@ -49,31 +51,32 @@ Los Desafíos de 1 hueso tienen una duración media aproximada de 2.5 a 6 meses.
 En algunos casos será más conveniente desarrollar los desafíos como independientes (Caso 1), y en otros uniendo diferentes huesos (Caso 2 y siguientes). Valóralo por ti mism@ o ayúdate de la comunidad ¡Para eso estamos!  
 En cualquier momento puedes reajustar tus desafíos, recuerda que todo es adaptable a ti y solo necesitas anotarlo y llevar el control de ello. Es tu desafío, tú decides. 
   
-¿Cuál es la elección más efectiva? Todas ellas. Lo tienes que determinar tú pues depende de tus circunstancias 😬.   
+¿Cuál es la elección más efectiva? Todas ellas pues desafío333 es muy flexible y readaptable mientras se realiza. Infórmate de las posibles opciones, equilibra tus circunstancias-deseos y empieza a morder 😬.   
 
 Mira un ejemplo real en [Desafío333 JavaScript](https://github.com/Eccedev/Desafio333-JavaScript).  
 
 ### ¡Vamos a calcular mordidas:  
-Ejemplo: Quiero mejorar mi destreza en desarrollo web HTML. El primer día con el hueso HTML en mi Desafío333 “HTML" dedico:  
+Ejemplo: Quiero mejorar mi conocimiento en el idioma inglés. El primer día con el hueso inglés en mi Desafío333 “Inglés" dedico:  
 durante la mañana 2 h y 10' (+1 primeros 33').  
 durante la tarde 35' (+1 primeros 33')  
 durante la noche duermo😴  
-Total tiempo dedicado: 2 h 45' (+0 (mínimo 3 h de esfuerzo))  
+Total tiempo dedicado: 2 h 45' (+0 (mínimo 3 h de esfuerzo para +1))  
 -Total mordidas día: 1+1 = 2 mordidas para ese hueso.  
-Lo anoto para hacer el seguimiento: 1/1/2023 - Desafío333 “HTML" = 2 mordidas / 2 h 45'. ¡Acumulado total: 2 mordidas / 2 h 45'!  
+Lo anoto para hacer el seguimiento: 1/1/2023 - Desafío333 “Inglés" = 2 mordidas / 2 h 45'. ¡Acumulado total: 2 mordidas / 2 h 45'!  
   
-...Dos días más tarde muerdo otra vez HTML de Desafío333 “HTML":  
+...Dos días más tarde muerdo otra vez inglés de mi Desafío333 “Inglés":  
 durante la mañana 5 h y 40' (+1 primeros 33')  
 durante la tarde viajo👩‍🚀  
 durante la noche 3 h 50' (+1 primeros 33')  
 Total tiempo dedicado: 9 h 30' (+3 mordidas (+1 cada 3 h))  
 Total mordidas día: 1+1+3 = 5 mordidas para ese día a ese hueso.  
-Lo anoto para hacer el seguimiento: 3/1/2023 - Desafío333 “HTML" = 5 mordidas / 9 h 30'. ¡Acumulado total: 7 mordidas / 12 h 15'!  
+Lo anoto para hacer el seguimiento: 3/1/2023 - Desafío333 “Inglés" = 5 mordidas / 9 h 30'. ¡Acumulado total: 7 mordidas / 12 h 15'!  
   
-Cada día que muerdes intenta anotar fecha, lugar, mordida, sensaciones, notas y link's. Pero sé flexible añadiendo o quitando items según creas necesario...es tu Desafío!      
+Cada día que muerdes intenta anotar fecha, lugar, mordida, sensaciones, notas y link's. Pero sé flexible añadiendo o quitando items según creas necesario...es tu Desafío!   
+Estudiar en una academia, ver películas en inglés, escuchar música inglesa y estudiar sus letras, seguir influencers y comentar en inglés sus posts... ¿Te hace mejorar inglés? ¿Quizás te interesa incluirlo como mordidas pues te aportaron valor?        
 Decide tu método para hacer el seguimiento: lo anotas en una hoja de papel, una plantilla de word, en mensajes guardados de telegram, inventa algo tú mism@ y comunícalo para ayudar a otr@s.  
 
-Mira un ejemplo real en [Hoja de ruta y progreso](https://github.com/Eccedev/Desafio333-JavaScript/blob/main/Hoja%20de%20ruta%20y%20progreso.md)  
+Mira un ejemplo real de un desafío anotado en github [Hoja de ruta y progreso](https://github.com/Eccedev/Desafio333-JavaScript/blob/main/Hoja%20de%20ruta%20y%20progreso.md)  
   
 ¿Tienes dudas aún? Continúa leyendo. ¿Ayuda? >>> [Discord](https://discord.com/channels/1075361833571057726/1075361834447671388)   
   
@@ -129,8 +132,9 @@ Tu desafío333 te ayuda a ser constante manteniendo una dedicación flexible en 
   
 Algunas metas se ven imposibles. ¿Cómo las hacemos idealmente alcanzables? Dividiéndolas en otras más asequibles y, si estas continúan siendo arduas, pues se subdividen hasta que sean alcanzables  
   
-Mira esto👀: Con dedicar SOLO 33' conseguirás 333 mordidas y más de 180 h al mínimo esfuerzo de un solo hueso en un proceso acumulativo en el tiempo. ¡Y con un mes de vacaciones al año 😃!  
-¿Cuánto tiempo te llevaría si decides realizar un desafío incluyendo tres huesos obteniendo un mínimo de 6 mordidas cada día?.  
+Mira esto👀: Con dedicar SOLO 33' conseguirás 333 mordidas y más de 180 h al mínimo esfuerzo de un solo hueso en un proceso acumulativo en el tiempo. ¡Y con un mes de vacaciones al año 😃!  ¿Si tu hueso es el idioma inglés cómo sería tu conocimiento finalmente? Y si fuera tu hueso hacer abdominales ¿serías una tableta de chocolate 😃?  
+  
+¿Cuánto tiempo te llevaría si decides realizar un desafío incluyendo tres huesos obteniendo un mínimo de 6 mordidas cada día?. ¡Pues menos de 60 días dedicados!  
   
 ### ¿Y los aprendizajes cruzados?  
 Es posible que para conseguir tus mordidas vayas mejorando otras habilidades. Un ejemplo puede ser morder un Desafío333 “Meditación Mindfulness" siguiendo un curso en idioma inglés que usa la plataforma educativa Moodle donde se alojan videos, audios y textos...ahí tienes un ejemplo claro , mejorarás en inglés y Moodle sin apenas darte cuenta. ¡Anótalo si te aporta valor!  
@@ -139,9 +143,13 @@ Es posible que para conseguir tus mordidas vayas mejorando otras habilidades. Un
 Atrapando como idea el post de [freecodecamp](https://www.freecodecamp.org/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/) y [Alex Kallaway](https://github.com/Kallaway/100-days-of-code) se busca ir un poco más allá buscando un sistema motivador con un seguimiento al desarrollo de destrezas y proyectos. Con él no solo pretendo mejorar en "x veces aplicando" sino que la dedicación tendrá una dirección más definida e intentando armonizar metas y motivaciones extrínsecas e intrínsecas (satisfacción propia y recompensa externa).  
 
 
-Como proyecto te animo a ser parte de él proponiendo mejoras y aportando ideas, realizando un desafío y publicándolo con #midesafio333, uniéndote y creando contenido específico en rrss, ayudando a desarrollar una app para crear desafíos y gestión de mordidas, etc.
+Como proyecto experimental en sus inicios te animo a ser parte de él proponiendo mejoras y aportando ideas, realizando un desafío y publicándolo con #midesafio333, uniéndote y creando contenido específico en rrss, ayudando a desarrollar una app para crear desafíos y gestión de mordidas, etc.  
 
-Creo que puede ser de gran ayuda a tod@s pues nos mantendrá prendad@s a una Meta mientras realizamos un desafío que hemos creado nosotro@s mismos. Informa al universo en qué te desafías con #midesafio333 .
+Creo que puede ser de gran ayuda a tod@s pues nos mantendrá prendad@s a una Meta mientras realizamos un desafío que hemos creado nosotro@s mismos.  
+  
+¡Eh! A mí me funciona. Pruébalo tú y continúa la cadena.  
+  
+Informa al universo en qué te desafías con #midesafio333 .
 
 Tu comunidad Desafío333 en [Discord](https://discord.com/channels/1075361833571057726/1075361834447671388)
  
